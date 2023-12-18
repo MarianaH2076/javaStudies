@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaEssentials/Aula5_Arrays/Aula5_Arrays.iml" filepath="$PROJECT_DIR$/JavaEssentials/Aula5_Arrays/Aula5_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEssentials/Aula6_POO/Aula6_POO.iml" filepath="$PROJECT_DIR$/JavaEssentials/Aula6_POO/Aula6_POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEssentials/Aula7_POO/Aula7_POO.iml" filepath="$PROJECT_DIR$/JavaEssentials/Aula7_POO/Aula7_POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEssentials/Aula6_POO/ClasseAbstrata/ClasseAbstrata.iml" filepath="$PROJECT_DIR$/JavaEssentials/Aula6_POO/ClasseAbstrata/ClasseAbstrata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEssentials/JavaEssentials.iml" filepath="$PROJECT_DIR$/JavaEssentials/JavaEssentials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEssentials/Aula6_POO/interfaces/interfaces.iml" filepath="$PROJECT_DIR$/JavaEssentials/Aula6_POO/interfaces/interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/linuxtips.iml" filepath="$PROJECT_DIR$/.idea/linuxtips.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaEssentials/Aula7_POO/polimorfismo/polimorfismo.iml" filepath="$PROJECT_DIR$/JavaEssentials/Aula7_POO/polimorfismo/polimorfismo.iml" />
+    </modules>
+  </component>
+</project>
