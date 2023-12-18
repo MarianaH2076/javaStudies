@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula103_Matrizes/Aula103_Matrizes.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula103_Matrizes/Aula103_Matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula69Fixacao/Aula69Fixacao.iml" filepath="$PROJECT_DIR$/Aula69Fixacao/Aula69Fixacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula69Fixacao2/Aula69Fixacao2.iml" filepath="$PROJECT_DIR$/Aula69Fixacao2/Aula69Fixacao2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula69Fixacao3/Aula69Fixacao3.iml" filepath="$PROJECT_DIR$/Aula69Fixacao3/Aula69Fixacao3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula71Calculator/Aula71Calculator.iml" filepath="$PROJECT_DIR$/Aula71Calculator/Aula71Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula72Fixacao/Aula72Fixacao.iml" filepath="$PROJECT_DIR$/Aula72Fixacao/Aula72Fixacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula72Revisao/Aula72Revisao.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula72Revisao/Aula72Revisao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula75_Construtores/Aula75_Construtores.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula75_Construtores/Aula75_Construtores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula81_ExercicioFixacao/Aula81_ExercicioFixacao.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula81_ExercicioFixacao/Aula81_ExercicioFixacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula88_Vetores/Aula88_Vetores.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula88_Vetores/Aula88_Vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula89_Vetorespt2/Aula89_Vetorespt2.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula89_Vetorespt2/Aula89_Vetorespt2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula90_Exercicio1_Negativos/Aula90_Exercicio1_Negativos.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula90_Exercicio1_Negativos/Aula90_Exercicio1_Negativos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula90_Exercicio2_SomaVetor/Aula90_Exercicio2_SomaVetor.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula90_Exercicio2_SomaVetor/Aula90_Exercicio2_SomaVetor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula90_Exercicio3_NumerosPares/Aula90_Exercicio3_NumerosPares.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula90_Exercicio3_NumerosPares/Aula90_Exercicio3_NumerosPares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula90_Exercicio4_MaiorPosicao/Aula90_Exercicio4_MaiorPosicao.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula90_Exercicio4_MaiorPosicao/Aula90_Exercicio4_MaiorPosicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula90_Exercicio6_SomaVetores/Aula90_Exercicio6_SomaVetores.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula90_Exercicio6_SomaVetores/Aula90_Exercicio6_SomaVetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula90_Exercicio7_AbaixoMedia/Aula90_Exercicio7_AbaixoMedia.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula90_Exercicio7_AbaixoMedia/Aula90_Exercicio7_AbaixoMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula90_Exercicio8_MediaPares/Aula90_Exercicio8_MediaPares.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula90_Exercicio8_MediaPares/Aula90_Exercicio8_MediaPares.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula90_Exercicio9_MaisVelho/Aula90_Exercicio9_MaisVelho.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula90_Exercicio9_MaisVelho/Aula90_Exercicio9_MaisVelho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula90_Exercicios_Alturas/Aula90_Exercicios_Alturas.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula90_Exercicios_Alturas/Aula90_Exercicios_Alturas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula93_Desafio_Pensionato/Aula93_Desafio_Pensionato.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula93_Desafio_Pensionato/Aula93_Desafio_Pensionato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula96_ForEach/Aula96_ForEach.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula96_ForEach/Aula96_ForEach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula98_List/Aula98_List.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula98_List/Aula98_List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Aula99_Exercicio/Aula99_Exercicio.iml" filepath="$PROJECT_DIR$/modulos1-10/Aula99_Exercicio/Aula99_Exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Condicional/Condicional.iml" filepath="$PROJECT_DIR$/modulos1-10/Condicional/Condicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/EstruturasRepetitivas/EstruturasRepetitivas.iml" filepath="$PROJECT_DIR$/modulos1-10/EstruturasRepetitivas/EstruturasRepetitivas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/Programa/Programa.iml" filepath="$PROJECT_DIR$/modulos1-10/Programa/Programa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/aula66/aula66.iml" filepath="$PROJECT_DIR$/modulos1-10/aula66/aula66.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/estruturaCondicional/estruturaCondicional.iml" filepath="$PROJECT_DIR$/modulos1-10/estruturaCondicional/estruturaCondicional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/estruturaSequencial/estruturaSequencial.iml" filepath="$PROJECT_DIR$/modulos1-10/estruturaSequencial/estruturaSequencial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/funcoes/funcoes.iml" filepath="$PROJECT_DIR$/modulos1-10/funcoes/funcoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_nelio_alves.iml" filepath="$PROJECT_DIR$/.idea/java_nelio_alves.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo11/modulo11.iml" filepath="$PROJECT_DIR$/modulo11/modulo11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulo13/modulo13.iml" filepath="$PROJECT_DIR$/modulo13/modulo13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulos1-10/modulos1-10.iml" filepath="$PROJECT_DIR$/modulos1-10/modulos1-10.iml" />
+    </modules>
+  </component>
+</project>
